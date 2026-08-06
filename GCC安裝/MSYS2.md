@@ -17,5 +17,6 @@ MSYS2 安裝
 >		pacman -S mingw-w64-ucrt-x86_64-gcc
 >		pacman -S mingw-w64-ucrt-x86_64-toolchain
 
-新增到系統環境變數
-![System Enviroment](Image/system_enviroment.png)
+> 新增到系統環境變數
+> 
+> ![System Enviroment](Image/system_enviroment.png)
