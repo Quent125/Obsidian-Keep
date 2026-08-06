@@ -1,5 +1,5 @@
 ---
-title: MSYS2.md
+title: MSYS2 安裝
 description: ""
 summary:
 date: 2026-08-06
@@ -8,7 +8,7 @@ tags:
 draft: true
 ---
 
-MSYS2 安裝
+安裝
 ===
 [**MSYS2**]([MSYS2](https://www.msys2.org/#installation))
 
